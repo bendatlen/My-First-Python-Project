@@ -30,4 +30,7 @@ print("\nTime to run: ", timeit.default_timer() - start_time)
 
 # checkout design patterns to see if someone else has created something that can be used
 # commit testing 123
+<<<<<<< HEAD
 # further change 12
+=======
+>>>>>>> 8e7a5bd29ffca49d4b6d9e1efdd9c0a07c612aab
