@@ -14,7 +14,7 @@ with open("C:/Users/W113400/Documents/Coding/python/random text.txt", "r") as f:
     words = content.split()  # split contents into list of individual words
 
 
-# function to sort text based on last character
+# nested functions to sort text based on last character
 def sort_last_letter(strings):
     def last_letter(s):
         return s[-1]
